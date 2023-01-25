@@ -1,0 +1,24 @@
+{
+  "name": "cookie-processor",
+  "version": "1.0.3",
+  "description": "Non middleware cookies processor .Just process your cookies.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ejayz/cookie-processor.git"
+  },
+  "keywords": [
+    "processor",
+    "cookie-processor",
+    "cookie",
+    "parser"
+  ],
+  "author": "Ejayz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ejayz/cookie-processor/issues"
+  },
+  "homepage": "https://github.com/Ejayz/cookie-processor#readme"
+}
