@@ -9,7 +9,7 @@ The "cookie-processor" npm package is a JavaScript library for handling HTTP coo
 ## Installation
 To install the "cookie-processor" package, you can use npm or yarn.
 
-```bash
+
 npm install cookie-processor
 # or
 yarn add cookie-processor
